@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing & Development Artifacts
+coverage/
+.playwright-mcp/
+/*.png
+
+# Next.js Build Output
+.next/
+out/
+build/
+
+# Environment Variables
+.env
+.env*.local
+
+# Editor & System Files
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+next-env.d.ts
+
+# Large Archives (GitHub blocks files > 100MB)
+*.zip
