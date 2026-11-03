@@ -51,3 +51,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to view th
 ## License
 
 © 2026 ANRIKA DIGITAL INNOVATION. All rights reserved.
+
