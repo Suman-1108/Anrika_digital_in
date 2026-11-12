@@ -31,7 +31,7 @@ export const metadata: Metadata = {
       {
         url: "/images/anrika-logo.jpg",
         width: 1024,
-        height: 1024,
+        height: 682,
         alt: "ANRIKA DIGITAL INNOVATION — Official Atelier Logo",
       },
     ],
@@ -56,10 +56,10 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       { url: "/favicon.ico" },
-      { url: "/images/anrika-emblem.jpg", sizes: "192x192", type: "image/jpeg" },
+      { url: "/images/logo_emblem.png", sizes: "192x192", type: "image/png" },
     ],
     shortcut: "/favicon.ico",
-    apple: "/images/anrika-emblem.jpg",
+    apple: "/images/logo_emblem.png",
   },
 };
 

@@ -49,7 +49,7 @@ export default function Navbar() {
           >
             <div className="relative w-9 h-9 sm:w-11 sm:h-11 rounded-full overflow-hidden shadow-sm border border-[#722F37]/30 shrink-0 group-hover:scale-105 group-hover:shadow-md transition-all duration-300 ring-2 ring-[#722F37]/10 bg-[#722F37]">
               <Image
-                src="/images/anrika-emblem.jpg"
+                src="/images/logo_emblem.png"
                 alt="ANRIKA Crest"
                 fill
                 sizes="(max-width: 640px) 36px, 44px"

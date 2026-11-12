@@ -233,7 +233,7 @@ export default function About() {
               </div>
               <div className="relative w-12 h-12 sm:w-14 sm:h-14 rounded-full overflow-hidden border-2 border-[#E8DCC6]/40 shadow-md shrink-0 bg-[#581d22]">
                 <Image
-                  src="/images/anrika-emblem.jpg"
+                  src="/images/logo_emblem.png"
                   alt="ANRIKA Seal"
                   fill
                   sizes="56px"

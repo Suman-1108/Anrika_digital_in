@@ -35,7 +35,7 @@ export default function Footer() {
             <div className="flex items-center gap-3.5">
               <div className="relative w-11 h-11 sm:w-12 sm:h-12 rounded-full overflow-hidden shadow-sm border border-[#722F37]/30 shrink-0 bg-[#722F37] ring-2 ring-[#722F37]/15">
                 <Image
-                  src="/images/anrika-emblem.jpg"
+                  src="/images/logo_emblem.png"
                   alt="ANRIKA Crest"
                   fill
                   sizes="48px"
@@ -225,7 +225,7 @@ export default function Footer() {
           <div className="flex items-center gap-2.5">
             <div className="relative w-6 h-6 rounded-full overflow-hidden border border-[#722F37]/30 shrink-0 bg-[#722F37]">
               <Image
-                src="/images/anrika-emblem.jpg"
+                src="/images/logo_emblem.png"
                 alt="ANRIKA Logo"
                 fill
                 sizes="24px"
